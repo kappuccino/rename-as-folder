@@ -9,7 +9,10 @@ Download this repo [as ZIP](https://github.com/kappuccino/rename-as-folder/archi
 
 Right-click (or Ctrl+clik) a folder, pick "Service > Rename as folder".
 
-The whole content of the folder you picked will be renamed prefixed by the name of the folder.
+The whole content of the folder you picked will be renamed prefixed by the name of the folder. You will need 2 files:
+
+- "Rename as Folder.workflow", basicaly the Automator workflow script file
+- "rename-as-folder.php" whos actually do the job
 
 
 ## Test it
